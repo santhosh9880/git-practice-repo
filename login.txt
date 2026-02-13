@@ -1,0 +1,17 @@
+the is the app version tha bvjdbd jdhj What it does
+git stash
+
+Saves:
+
+
+Modified files
+
+
+Staged files
+
+
+Clears working directory
+
+
+Stores changes in a stash stack
+
